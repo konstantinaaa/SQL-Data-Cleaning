@@ -10,9 +10,9 @@ The goal is to prepare the dataset for further analysis by:
 
 🗂️ Dataset
 The dataset contains property sales records from Nashville, including:
-🔹Sale dates and prices
-🔹Property and owner addresses
-🔹Tax and parcel information
+  🔹Sale dates and prices
+  🔹Property and owner addresses
+  🔹Tax and parcel information
 Source: Nashville Housing dataset (Kaggle)
 
 🛠️ Technologies Used
