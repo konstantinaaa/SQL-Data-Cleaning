@@ -1,6 +1,6 @@
 Nashville Housing Data Cleaning Project (SQL)
 
-📘 Project Overview
+📘 Project Overview: 
 This project focuses on cleaning and transforming raw housing data from the Nashville Housing dataset using SQL Server.
 The goal is to prepare the dataset for further analysis by:
 - Standardizing data formats  
